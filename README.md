@@ -1,7 +1,12 @@
 # Demo Git Repository
 
-This is the demo readme file.
+This is the demo readme file for publishing python packages.
 
-## Ipsum Below
+## For Building Locally
+'pyhton setup.py sdist'
 
-Bacon ipsum dolor amet tenderloin tongue spare ribs, jowl shoulder shank pancetta turkey short ribs frankfurter cow. Short ribs buffalo rump, corned beef landjaeger capicola alcatra ball tip chuck frankfurter. Hamburger pastrami doner corned beef, beef meatball alcatra chicken. Landjaeger sirloin porchetta ground round, pork short loin venison tongue beef ribs shoulder alcatra jerky filet mignon fatback.
+## Installing this package from GitHub
+'pip install git+https://github/Muzix1/demo_package.git'
+
+## Updating this package from GitHub
+'pip install --upgrade git+https://github/Muzix1/demo_package.git'

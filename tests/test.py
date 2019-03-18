@@ -1,4 +1,5 @@
 from mypackage import myFunction
+
 def test_top_n():
     """
     make sure top_n works correctly
