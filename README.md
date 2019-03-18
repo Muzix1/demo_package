@@ -1,4 +1,4 @@
-# Demoe Git Repository
+# Demo Git Repository
 
 This is the demo readme file.
 
