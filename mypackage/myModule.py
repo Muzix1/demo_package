@@ -11,6 +11,7 @@ def top_n(items, n):
     Examples:
         >>> top_n([8, 3, 2, 7, 4], 3)
         [8, 7, 3]
+             
     """
     for i in range(n):  # keep sorting until we have the top n items
         for j in range(len(items)-1-i):
